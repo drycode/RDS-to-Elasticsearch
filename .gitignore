@@ -1,0 +1,19 @@
+*.env
+*.DS_Store
+*.idea
+*.pyc
+*scratch*
+tmp/
+.vscode
+.pylintrc
+
+# SECRET CONFIGURATION FILES
+dev_env.sh
+dev.env
+
+endpoint_parameters.py
+TODO
+
+# JVM Configurations
+*.options
+*.properties
